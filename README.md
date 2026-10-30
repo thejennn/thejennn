@@ -26,7 +26,7 @@ Mình thích những bài toán mà dữ liệu lộn xộn, người dùng thì
   <tr>
     <td valign="top" width="50%">
 
-**🧠 Học máy & Thị giác máy tính**
+**🧠 AI & Học sâu**
 <br/>
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
