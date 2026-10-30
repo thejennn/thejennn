@@ -2,11 +2,7 @@
   <img src="assets/banner.svg" width="900" alt="thejennn banner" />
 </p>
 
-Xin chào, mình là **thejennn**, một **AI Engineer** chuyên biến những mô hình AI từ "chạy được trong notebook" thành thứ có thể đem ra webcam và bị thử thách thật sự.
-
-Mình làm cả chuỗi: huấn luyện model, ghép các model thành pipeline, rồi giơ điện thoại trước camera để xem AI có nhận ra biển báo không. Lần đầu nó nhận đúng biển "Cấm quay đầu" với 97%, và mình ăn mừng như vừa thắng giải thưởng nào đó.
-
-Mình thích những bài toán mà dữ liệu lộn xộn, người dùng thì luôn làm mọi thứ theo cách không ai lường trước. Đó là lúc AI thật sự phải làm việc. Gần đây mình làm nhận diện biển báo realtime, tóm tắt biên bản họp cùng nhóm, và một trợ lý sàng lọc nguy cơ đột quỵ.
+Xin chào, mình là **thejennn**, một **AI Engineer tập sự**. Hiện mình đang bận đá bóng ⚽ nên các dự án AI sẽ tới dần dần.
 
 ---
 
