@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#4c1d95"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="260" rx="20" fill="url(#bg)"/>
+  <circle cx="860" cy="60" r="120" fill="#7c3aed" opacity="0.25"/>
+  <circle cx="940" cy="200" r="80" fill="#22d3ee" opacity="0.2"/>
+  <text x="60" y="120" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="700" fill="#ffffff">Hi, I'm thejennn</text>
+  <text x="60" y="170" font-family="Segoe UI, Arial, sans-serif" font-size="26" fill="#c4b5fd">Machine Learning · Computer Vision · Python</text>
+  <text x="60" y="215" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#94a3b8">Xây dựng hệ thống nhận diện hình ảnh thực tế</text>
+</svg>
