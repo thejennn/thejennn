@@ -30,7 +30,9 @@
 
 | Dự án | Mô tả | Công nghệ |
 |---|---|---|
-| [Traffic-sign-classification](https://github.com/thejennn/Traffic-sign-classification) | Nhận diện biển báo giao thông Việt Nam, hiển thị mức phạt theo phương tiện | Python, TensorFlow, Tkinter |
+| [Traffic-sign-classification](https://github.com/thejennn/Traffic-sign-classification) | Nhận diện biển báo giao thông Việt Nam bằng YOLO và CNN, chạy trên ảnh và webcam | Python, YOLO, TensorFlow |
+| [Verba](https://github.com/Biggbros/Verba-AI-Meeting-Recognition) | Quản lý biên bản cuộc họp bằng AI: chuyển giọng nói thành văn bản, tóm tắt và xuất tài liệu (nhóm Biggbros) | Full-stack, AI |
+| [StrokeGuard AI](https://github.com/NhatBang1/Healthcare-Stroke-prediction) | Trợ lý sàng lọc nguy cơ đột quỵ từ hồ sơ sức khỏe, kết hợp mô hình lâm sàng và LLM | Python, PostgreSQL, LLM |
 
 ## 📊 Thống kê GitHub
 
