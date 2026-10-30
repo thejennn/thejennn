@@ -2,10 +2,11 @@
   <img src="assets/banner.svg" width="900" alt="thejennn banner" />
 </p>
 
-Mình là **thejennn**, làm về **Machine Learning và Computer Vision**. Mình thích biến ý tưởng thành sản phẩm chạy được trên máy thật, từ nhận diện biển báo trên webcam đến các hệ thống AI có giao diện cho người dùng.
+Xin chào, mình là **thejennn**, một **AI Engineer** chuyên biến những mô hình AI từ "chạy được trong notebook" thành thứ có thể đem ra webcam và bị thử thách thật sự.
 
-- 🔭 Đang làm: nhận diện biển báo giao thông Việt Nam bằng YOLO và CNN, chạy realtime trên webcam
-- 🤝 Đã tham gia dự án nhóm về xử lý giọng nói và tóm tắt biên bản cuộc họp
+Mình làm cả chuỗi: huấn luyện model, ghép các model thành pipeline, rồi giơ điện thoại trước camera để xem AI có nhận ra biển báo không. Lần đầu nó nhận đúng biển "Cấm quay đầu" với 97%, và mình ăn mừng như vừa thắng giải thưởng nào đó.
+
+Mình thích những bài toán mà dữ liệu lộn xộn, người dùng thì luôn làm mọi thứ theo cách không ai lường trước. Đó là lúc AI thật sự phải làm việc. Gần đây mình làm nhận diện biển báo realtime, tóm tắt biên bản họp cùng nhóm, và một trợ lý sàng lọc nguy cơ đột quỵ.
 
 ---
 
